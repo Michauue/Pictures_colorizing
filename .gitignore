@@ -1,0 +1,6 @@
+bin/
+results/
+test_image/
+train/
+training_checkpoints/
+training_images/
